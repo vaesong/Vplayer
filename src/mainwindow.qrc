@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>asset/qss/about.css</file>
+        <file>asset/qss/ctrlbar.css</file>
+        <file>asset/qss/mainwid.css</file>
+        <file>asset/qss/playlist.css</file>
+        <file>asset/qss/show.css</file>
+        <file>asset/qss/title.css</file>
+        <file>asset/fa-solid-900.ttf</file>
+        <file>asset/fontawesome-webfont.ttf</file>
+        <file>asset/menu.json</file>
+        <file>asset/Player.ico</file>
+        <file>asset/player.png</file>
+    </qresource>
+</RCC>
